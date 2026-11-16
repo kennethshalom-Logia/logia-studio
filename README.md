@@ -35,4 +35,4 @@ Full instructions, including the ElevenLabs and Blender connections, are in [doc
 
 ## Licence
 
-Private. Remotion has its own licence terms for companies: https://remotion.dev/license
+No open-source licence has been chosen yet, so all rights are reserved. Remotion has its own licence terms for companies: https://remotion.dev/license
