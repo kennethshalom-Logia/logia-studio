@@ -1,0 +1,23 @@
+[
+  { "id": "hook", "say": "[quietly, exhausted] I don't think God is real.", "gap": 0.35 },
+  { "id": "years", "say": "[frustrated] Because I've prayed for YEARS... [voice breaking] and He's never said a single word to me.", "gap": 0.3 },
+  { "id": "church", "say": "[flat, listing] I go to church. I pray. I worship.", "gap": 0.2 },
+  { "id": "nothing", "say": "[bitter] But no voice. No lightning. [pause] Nothing.", "gap": 0.55 },
+  { "id": "turn", "say": "[softer, curious] But what if God isn't silent? [beat] What if I was listening for the wrong thing?", "gap": 0.3 },
+  { "id": "elijah1", "say": "[storyteller, building] Elijah waited for God in the wind. [louder] The earthquake! [intense] And the fire!", "cap": "Elijah waited for God in the wind… the earthquake… and the fire.", "gap": 0.2 },
+  { "id": "elijah2", "say": "[firm] But God wasn't in any of them. [softly] He came... [whispering] in a whisper.", "gap": 0.4 },
+  { "id": "how", "say": "[energetic] So here's how you HEAR Him.", "cap": "So here's how you HEAR Him.", "gap": 0.25 },
+  { "id": "h1", "say": "[punchy] H is for History.", "gap": 0.15 },
+  { "id": "h2", "say": "[confident] My faith doesn't stand on a feeling. It stands on an empty tomb, seen by over five hundred eyewitnesses.", "cap": "My faith doesn't stand on a feeling. It stands on an empty tomb, seen by 500+ eyewitnesses.", "gap": 0.3 },
+  { "id": "e1", "say": "[punchy] E is for Every page.", "gap": 0.15 },
+  { "id": "e2", "say": "[amazed] In nineteen forty-seven, scrolls found by the Dead Sea showed Isaiah, copied almost word for word, a thousand years older than any copy we had.", "cap": "In 1947, scrolls found by the Dead Sea showed Isaiah, copied almost word for word, 1,000 years older than any copy we had.", "gap": 0.25 },
+  { "id": "e3", "say": "[warm] God kept His word. Read it out loud... and you're hearing His voice.", "gap": 0.3 },
+  { "id": "a1", "say": "[punchy] A is for Around you.", "gap": 0.15 },
+  { "id": "a2", "say": "[warm, smiling] The friend who texted at the perfect moment. [impressed] The sermon that felt aimed right at me.", "gap": 0.25 },
+  { "id": "a3", "say": "[sincere] God speaks through people... more than clouds.", "gap": 0.3 },
+  { "id": "r1", "say": "[punchy] R is for Rearview.", "gap": 0.15 },
+  { "id": "r2", "say": "[reflective] Look back... and you'll see one red thread through it all. [awed] His fingerprints. Everywhere.", "gap": 0.45 },
+  { "id": "end1", "say": "[emotional] He was never silent.", "gap": 0.9 },
+  { "id": "end2", "say": "[whispering] He's been whispering this whole time.", "gap": 0.5 },
+  { "id": "cta", "say": "[upbeat] Which letter did you need today? Comment H, E, A, or R.", "gap": 1.0 }
+]

@@ -1,0 +1,273 @@
+[
+ {
+  "id": "hook",
+  "gap": 0.3,
+  "sents": [
+   [
+    "hook",
+    "God left me on seen."
+   ]
+  ]
+ },
+ {
+  "id": "pray",
+  "gap": 0.3,
+  "sents": [
+   [
+    "p1",
+    "I prayed."
+   ],
+   [
+    "n1",
+    "Nothing."
+   ],
+   [
+    "p2",
+    "Prayed louder."
+   ],
+   [
+    "n2",
+    "Nothing."
+   ],
+   [
+    "p3",
+    "I even tried the serious voice."
+   ],
+   [
+    "ohf",
+    "“O Heavenly Father!”"
+   ],
+   [
+    "n3",
+    "Nothing."
+   ]
+  ]
+ },
+ {
+  "id": "either",
+  "gap": 0.3,
+  "sents": [
+   [
+    "e1",
+    "So either God isn't real,"
+   ],
+   [
+    "e2",
+    "or he's blocked my number."
+   ],
+   [
+    "meet",
+    "Before you decide, meet two people."
+   ]
+  ]
+ },
+ {
+  "id": "david",
+  "gap": 0.35,
+  "sents": [
+   [
+    "d1",
+    "David."
+   ],
+   [
+    "d2",
+    "Wrote half your worship songs."
+   ],
+   [
+    "d3",
+    "He also wrote:"
+   ],
+   [
+    "d4",
+    "“How long, Lord?"
+   ],
+   [
+    "d5",
+    "Will you forget me forever?”"
+   ],
+   [
+    "d6",
+    "That's not a deleted scene."
+   ],
+   [
+    "d7",
+    "God kept it in the Bible."
+   ]
+  ]
+ },
+ {
+  "id": "teresa",
+  "gap": 0.4,
+  "sents": [
+   [
+    "t1",
+    "Mother Teresa."
+   ],
+   [
+    "t2",
+    "Kolkata."
+   ],
+   [
+    "t3",
+    "In her private letters, she said God felt absent."
+   ],
+   [
+    "t4",
+    "For over forty years."
+   ],
+   [
+    "t5",
+    "She still showed up every morning."
+   ],
+   [
+    "c1",
+    "So the silence doesn't mean you're doing it wrong."
+   ],
+   [
+    "c2",
+    "You're in very good company."
+   ]
+  ]
+ },
+ {
+  "id": "turn",
+  "gap": 0.35,
+  "sents": [
+   [
+    "u1",
+    "But here's what I missed."
+   ],
+   [
+    "u2",
+    "God was replying."
+   ],
+   [
+    "u3",
+    "Just not in that chat."
+   ]
+  ]
+ },
+ {
+  "id": "onetwo",
+  "gap": 0.3,
+  "sents": [
+   [
+    "o1",
+    "One: his Word."
+   ],
+   [
+    "o2",
+    "You're waiting for a voice note."
+   ],
+   [
+    "o3",
+    "He already sent a whole book."
+   ],
+   [
+    "w1",
+    "Two: people."
+   ],
+   [
+    "w2",
+    "That friend who called exactly when you were falling apart?"
+   ],
+   [
+    "w3",
+    "That wasn't network luck."
+   ]
+  ],
+  "pick": [
+   1,
+   2,
+   3,
+   5,
+   6
+  ]
+ },
+ {
+  "id": "three",
+  "gap": 0.3,
+  "sents": [
+   [
+    "h1",
+    "Three: that sermon."
+   ],
+   [
+    "h2",
+    "The one where you looked at the pastor like…"
+   ],
+   [
+    "h3",
+    "“Who told you?”"
+   ]
+  ],
+  "pick": [
+   1,
+   2
+  ]
+ },
+ {
+  "id": "four",
+  "gap": 0.4,
+  "sents": [
+   [
+    "f1",
+    "Four: scroll up."
+   ],
+   [
+    "f2",
+    "Look back at your life."
+   ],
+   [
+    "f3",
+    "The door that closed."
+   ],
+   [
+    "f4",
+    "The person who appeared."
+   ],
+   [
+    "f5",
+    "The thing you survived."
+   ],
+   [
+    "f6",
+    "There's one thread running through all of it."
+   ],
+   [
+    "f7",
+    "It's him."
+   ]
+  ],
+  "pick": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ {
+  "id": "end",
+  "gap": 0.15,
+  "sents": [
+   [
+    "z1",
+    "He is not far from any one of us."
+   ],
+   [
+    "z2",
+    "He didn't leave you on seen."
+   ],
+   [
+    "z3",
+    "You were checking the wrong inbox."
+   ],
+   [
+    "z4",
+    "So the next time you think…"
+   ]
+  ]
+ }
+]

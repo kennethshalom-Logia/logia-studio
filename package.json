@@ -1,0 +1,43 @@
+{
+  "name": "logia-studio",
+  "version": "1.0.0",
+  "description": "Logia reels studio: Remotion code, director agent and skills",
+  "repository": {},
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "@remotion/google-fonts": "^4.0.539",
+    "@remotion/media": "^4.0.539",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.539",
+    "@remotion/eslint-config-flat": "4.0.539",
+    "@remotion/renderer": "^4.0.539",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "cross-env": "^10.1.0",
+    "eslint": "10.12.0",
+    "pngjs": "^7.0.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "render": "node scripts/render-hear.js",
+    "sheet": "node scripts/sheet.js",
+    "seen:audio": "cross-env TEMPO=1.1 CAP=0.2 LINES=seen1-lines.json OUT=seen1.json WAV=vo1.wav node scripts/vo-seen.js && cross-env TEMPO=1.1 CAP=0.2 LINES=seen2-lines.json OUT=seen2.json WAV=vo2.wav node scripts/vo-seen.js && cross-env AUDIO_DATA=seen1.json AUDIO_OUT=seen/mix1.wav node scripts/make-audio-seen.js && cross-env AUDIO_DATA=seen2.json AUDIO_OUT=seen/mix2.wav node scripts/make-audio-seen.js"
+  },
+  "allowScripts": {
+    "esbuild": false
+  }
+}

@@ -1,0 +1,201 @@
+{
+ "bedroom_night": {
+  "src": "plates/bedroom_night.jpg",
+  "rect": [
+   -200,
+   -150,
+   1300,
+   2050
+  ],
+  "anchors": {
+   "bed_seat": [
+    387,
+    1192
+   ],
+   "calendar": [
+    230,
+    572
+   ],
+   "win_pane": [
+    793,
+    248,
+    1205,
+    729
+   ]
+  }
+ },
+ "bedroom_dawn": {
+  "src": "plates/bedroom_dawn.jpg",
+  "rect": [
+   -200,
+   -150,
+   1300,
+   2050
+  ],
+  "anchors": {
+   "bed_seat": [
+    387,
+    1192
+   ],
+   "calendar": [
+    230,
+    572
+   ],
+   "win_pane": [
+    793,
+    248,
+    1205,
+    729
+   ]
+  }
+ },
+ "hills": {
+  "src": "plates/hills.jpg",
+  "rect": [
+   -1400,
+   -2200,
+   3500,
+   3600
+  ],
+  "anchors": {
+   "tomb_door": [
+    1705,
+    1110
+   ]
+  }
+ },
+ "hills_dusk": {
+  "src": "plates/hills_dusk.jpg",
+  "rect": [
+   -1100,
+   -1900,
+   2200,
+   3700
+  ],
+  "anchors": {}
+ },
+ "church_out": {
+  "src": "plates/church_out.jpg",
+  "rect": [
+   -250,
+   -200,
+   1350,
+   2100
+  ],
+  "anchors": {
+   "door": [
+    827,
+    1099
+   ],
+   "sign": [
+    1658,
+    854
+   ]
+  }
+ },
+ "church_in": {
+  "src": "plates/church_in.jpg",
+  "rect": [
+   -250,
+   -150,
+   1350,
+   2050
+  ],
+  "anchors": {
+   "pulpit": [
+    823,
+    744
+   ]
+  }
+ },
+ "radio_room": {
+  "src": "plates/radio_room.jpg",
+  "rect": [
+   -250,
+   -150,
+   1350,
+   2050
+  ],
+  "anchors": {
+   "table_top": [
+    728,
+    969
+   ]
+  }
+ },
+ "elijah": {
+  "src": "plates/elijah.jpg",
+  "rect": [
+   -350,
+   -250,
+   1450,
+   2150
+  ],
+  "anchors": {
+   "cave": [
+    234,
+    1058
+   ]
+  }
+ },
+ "qumran": {
+  "src": "plates/qumran.jpg",
+  "rect": [
+   -500,
+   -350,
+   1600,
+   2300
+  ],
+  "anchors": {
+   "cave": [
+    671,
+    670
+   ]
+  }
+ },
+ "study": {
+  "src": "plates/study.jpg",
+  "rect": [
+   -250,
+   -150,
+   1350,
+   2050
+  ],
+  "anchors": {
+   "desk_top": [
+    862,
+    978
+   ]
+  }
+ },
+ "road": {
+  "src": "plates/road.jpg",
+  "rect": [
+   -1600,
+   300,
+   2700,
+   2000
+  ],
+  "anchors": {}
+ },
+ "corkboard": {
+  "src": "plates/corkboard.jpg",
+  "rect": [
+   -1300,
+   -1700,
+   2400,
+   3600
+  ],
+  "anchors": {}
+ },
+ "studio": {
+  "src": "plates/studio.jpg",
+  "rect": [
+   -150,
+   -150,
+   1250,
+   2100
+  ],
+  "anchors": {}
+ }
+}

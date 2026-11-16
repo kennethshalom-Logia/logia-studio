@@ -1,0 +1,136 @@
+[
+ {
+  "id": "hook",
+  "gap": 0.2,
+  "sents": [
+   [
+    "hook",
+    "God left me on seen."
+   ]
+  ]
+ },
+ {
+  "id": "pray",
+  "gap": 0.2,
+  "sents": [
+   [
+    "p1",
+    "I prayed."
+   ],
+   [
+    "n1",
+    "Nothing."
+   ],
+   [
+    "p2",
+    "Prayed louder."
+   ],
+   [
+    "n2",
+    "Nothing."
+   ],
+   [
+    "p3",
+    "I even tried the serious voice."
+   ],
+   [
+    "ohf",
+    "“O Heavenly Father!”"
+   ],
+   [
+    "n3",
+    "Nothing."
+   ]
+  ]
+ },
+ {
+  "id": "david",
+  "gap": 0.2,
+  "sents": [
+   [
+    "d1",
+    "David."
+   ],
+   [
+    "d2",
+    "Wrote half your worship songs."
+   ],
+   [
+    "d3",
+    "He also wrote:"
+   ],
+   [
+    "d4",
+    "“How long, Lord?"
+   ],
+   [
+    "d5",
+    "Will you forget me forever?”"
+   ],
+   [
+    "d6",
+    "That's not a deleted scene."
+   ],
+   [
+    "d7",
+    "God kept it in the Bible."
+   ]
+  ]
+ },
+ {
+  "id": "teresa",
+  "gap": 0.2,
+  "sents": [
+   [
+    "t1",
+    "Mother Teresa."
+   ],
+   [
+    "t2",
+    "Kolkata."
+   ],
+   [
+    "t3",
+    "In her private letters, she said God felt absent."
+   ],
+   [
+    "t4",
+    "For over forty years."
+   ],
+   [
+    "t5",
+    "She still showed up every morning."
+   ],
+   [
+    "c1",
+    "So the silence doesn't mean you're doing it wrong."
+   ],
+   [
+    "c2",
+    "You're in very good company."
+   ]
+  ]
+ },
+ {
+  "id": "tease",
+  "gap": 0.15,
+  "sents": [
+   [
+    "x1",
+    "But here's the twist."
+   ],
+   [
+    "x2",
+    "God was replying the whole time."
+   ],
+   [
+    "x3",
+    "That's part two."
+   ],
+   [
+    "x4",
+    "Which is funny, because I really thought…"
+   ]
+  ]
+ }
+]

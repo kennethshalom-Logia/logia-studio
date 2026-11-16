@@ -1,0 +1,31 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.*
+
+# Rendered videos and check frames
+out
+
+# Generated audio: rebuilt from the mp3 chunks by the scripts
+public/**/*.wav
+!public/sfx/*.wav
+
+# Audio and renders for the older reels stay on the original machine (too large for git)
+public/hear*/
+public/part*
+public/full.mp3
+public/cine/
+public/3d/
+public/qa/
+
+# Blender output and backups
+blender/out/
+blender/tex/
+blender/__pycache__/
+blender/probe_*.png
+*.blend1
+
+# Personal working files
+*.docx
+.claude/settings.local.json

@@ -1,0 +1,50 @@
+[
+ {
+  "name": "hookpov",
+  "start": 0,
+  "end": 2.62,
+  "frames": 92
+ },
+ {
+  "name": "hook",
+  "start": 2.62,
+  "end": 5.25,
+  "frames": 92
+ },
+ {
+  "name": "years",
+  "start": 5.25,
+  "end": 9.61,
+  "frames": 144
+ },
+ {
+  "name": "radio",
+  "start": 9.61,
+  "end": 14.26,
+  "frames": 153
+ },
+ {
+  "name": "how",
+  "start": 14.26,
+  "end": 16.04,
+  "frames": 67
+ },
+ {
+  "name": "history",
+  "start": 16.04,
+  "end": 24.31,
+  "frames": 262
+ },
+ {
+  "name": "scrolls",
+  "start": 24.31,
+  "end": 30.06,
+  "frames": 186
+ },
+ {
+  "name": "every",
+  "start": 30.06,
+  "end": 32.17,
+  "frames": 77
+ }
+]

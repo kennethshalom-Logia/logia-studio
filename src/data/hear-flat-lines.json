@@ -1,0 +1,23 @@
+[
+  { "id": "hook", "say": "I don't think God is real.", "gap": 0.55 },
+  { "id": "years", "say": "Because I've prayed for years... and He's never said a single word to me.", "gap": 0.45 },
+  { "id": "church", "say": "I go to church. I pray. I worship.", "gap": 0.3 },
+  { "id": "nothing", "say": "But no voice. No lightning. Nothing.", "gap": 0.8 },
+  { "id": "turn", "say": "But what if God isn't silent... what if I was listening for the wrong thing?", "gap": 0.5 },
+  { "id": "elijah1", "say": "Elijah waited for God in the wind... the earthquake... and the fire.", "gap": 0.35 },
+  { "id": "elijah2", "say": "But God wasn't in any of them. He came... in a whisper.", "gap": 0.6 },
+  { "id": "how", "say": "So here's how you hear Him.", "cap": "So here's how you HEAR Him.", "gap": 0.45 },
+  { "id": "h1", "say": "H is for History.", "gap": 0.3 },
+  { "id": "h2", "say": "My faith doesn't stand on a feeling. It stands on an empty tomb, seen by over five hundred eyewitnesses.", "cap": "My faith doesn't stand on a feeling. It stands on an empty tomb, seen by 500+ eyewitnesses.", "gap": 0.45 },
+  { "id": "e1", "say": "E is for Every page.", "gap": 0.3 },
+  { "id": "e2", "say": "In nineteen forty-seven, scrolls found by the Dead Sea showed Isaiah, copied almost word for word, a thousand years older than any copy we had.", "cap": "In 1947, scrolls found by the Dead Sea showed Isaiah, copied almost word for word, 1,000 years older than any copy we had.", "gap": 0.35 },
+  { "id": "e3", "say": "God kept His word. Read it out loud, and you're hearing His voice.", "gap": 0.45 },
+  { "id": "a1", "say": "A is for Around you.", "gap": 0.3 },
+  { "id": "a2", "say": "The friend who texted at the perfect moment. The sermon that felt aimed right at me.", "gap": 0.35 },
+  { "id": "a3", "say": "God speaks through people... more than clouds.", "gap": 0.45 },
+  { "id": "r1", "say": "R is for Rearview.", "gap": 0.3 },
+  { "id": "r2", "say": "Look back... and you'll see one red thread through it all. His fingerprints. Everywhere.", "gap": 0.6 },
+  { "id": "end1", "say": "He was never silent.", "gap": 1.1 },
+  { "id": "end2", "say": "He's been whispering this whole time.", "instructions": "soft, gentle, almost a whisper", "gap": 0.7 },
+  { "id": "cta", "say": "Which letter did you need today? Comment H, E, A, or R.", "gap": 1.4 }
+]
